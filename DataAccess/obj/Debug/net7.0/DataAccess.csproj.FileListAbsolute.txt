@@ -1,0 +1,17 @@
+/Users/znagroup3/Projects/ReCapProject/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+/Users/znagroup3/Projects/ReCapProject/DataAccess/bin/Debug/net7.0/DataAccess.dll
+/Users/znagroup3/Projects/ReCapProject/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+/Users/znagroup3/Projects/ReCapProject/DataAccess/bin/Debug/net7.0/Entities.dll
+/Users/znagroup3/Projects/ReCapProject/DataAccess/bin/Debug/net7.0/Entities.pdb
+/Users/znagroup3/Projects/ReCapProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/znagroup3/Projects/ReCapProject/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/znagroup3/Projects/ReCapProject/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/znagroup3/Projects/ReCapProject/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+/Users/znagroup3/Projects/ReCapProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/znagroup3/Projects/ReCapProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
+/Users/znagroup3/Projects/ReCapProject/DataAccess/obj/Debug/net7.0/DataAccess.dll
+/Users/znagroup3/Projects/ReCapProject/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+/Users/znagroup3/Projects/ReCapProject/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+/Users/znagroup3/Projects/ReCapProject/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
+/Users/znagroup3/Projects/ReCapProject/DataAccess/bin/Debug/net7.0/Core.dll
+/Users/znagroup3/Projects/ReCapProject/DataAccess/bin/Debug/net7.0/Core.pdb
