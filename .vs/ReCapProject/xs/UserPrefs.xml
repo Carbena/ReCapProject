@@ -1,63 +1,56 @@
-﻿<Properties StartupConfiguration="{6288C88F-4EC3-4616-950B-99DDF95B56AF}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Console/Program.cs">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{FC746E0C-FA07-4BFC-9B53-15B0A41C6C54}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Applications/Opera GX.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Console PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Business/Abstract/ICarImageService.cs">
     <Files>
-      <File FileName="Core/DataAccess/EntityFramework/EfEntityRepositoryBase.cs" />
-      <File FileName="DataAccess/Concrete/EntityFramework/EfCarDal.cs" />
-      <File FileName="Entities/Concrete/Car.cs" />
-      <File FileName="Entities/Concrete/Color.cs" />
-      <File FileName="Entities/Concrete/Brand.cs" />
-      <File FileName="DataAccess/Concrete/EntityFramework/EfColorDal.cs" />
-      <File FileName="DataAccess/Concrete/EntityFramework/EfBrandDal.cs" />
-      <File FileName="DataAccess/Concrete/InMemory/InMemoryCarDal.cs" />
-      <File FileName="Business/Concrete/BrandManager.cs" Line="45" Column="35" />
-      <File FileName="Business/Abstract/IBrandService.cs" Line="13" Column="16" />
-      <File FileName="Business/Abstract/ICarService.cs" Line="16" Column="62" />
-      <File FileName="Business/Abstract/IColorService.cs" Line="13" Column="16" />
-      <File FileName="DataAccess/Abstract/IBrandDal.cs" />
-      <File FileName="Business/Concrete/CarManager.cs" Line="68" Column="60" />
-      <File FileName="DataAccess/Abstract/ICarDal.cs" />
-      <File FileName="DataAccess/Abstract/IColorDal.cs" />
-      <File FileName="Business/Concrete/ColorManager.cs" Line="46" Column="39" />
-      <File FileName="Entities/DTOs/CarDetailDto.cs" />
-      <File FileName="Console/Program.cs" Line="33" Column="63" />
-      <File FileName="Core/Utilities/Results/IResult.cs" />
-      <File FileName="Core/Utilities/Results/Result.cs" />
-      <File FileName="Core/Utilities/Results/SuccessResult.cs" />
-      <File FileName="Core/Utilities/Results/ErrorResult.cs" />
-      <File FileName="Core/Utilities/Results/IDataResult.cs" />
-      <File FileName="Core/Utilities/Results/DataResult.cs" />
-      <File FileName="Core/Utilities/Results/SuccessDataResult.cs" />
-      <File FileName="Core/Utilities/Results/ErrorDataResult.cs" />
-      <File FileName="Business/Constants/Messages.cs" Line="23" Column="61" />
+      <File FileName="DataAccess/Concrete/EntityFramework/EfCarDal.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="DataAccess/Concrete/EntityFramework/EfCarImageDal.cs" Line="10" Column="3" IsPinned="True" />
+      <File FileName="Business/Concrete/CarManager.cs" Line="29" Column="1" />
+      <File FileName="Business/ValidationRules/FluentValidation/CarValidator.cs" />
+      <File FileName="Entities/DTOs/CarDetailDto.cs" Line="12" Column="38" />
+      <File FileName="Entities/Concrete/CarImage.cs" Line="5" Column="2" />
+      <File FileName="Entities/Concrete/Rental.cs" Line="1" Column="1" />
+      <File FileName="Entities/Concrete/Color.cs" Line="1" Column="1" />
+      <File FileName="DataAccess/Abstract/ICarImageDal.cs" Line="11" Column="1" />
+      <File FileName="DataAccess/Abstract/ICarDal.cs" Line="1" Column="1" />
+      <File FileName="DataAccess/Concrete/EntityFramework/EfCustomerDal.cs" Line="1" Column="1" />
+      <File FileName="Business/Abstract/ICarImageService.cs" Line="12" Column="43" />
+      <File FileName="Business/Abstract/IBrandService.cs" Line="9" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ReCapProject" expanded="True">
             <Node name="Business" expanded="True">
-              <Node name="Abstract" expanded="True" />
+              <Node name="Abstract" expanded="True">
+                <Node name="ICarImageService.cs" selected="True" />
+              </Node>
               <Node name="Concrete" expanded="True" />
-              <Node name="Constants" expanded="True" />
+              <Node name="DependencyResolvers" expanded="True">
+                <Node name="Autofac" expanded="True" />
+              </Node>
+              <Node name="ValidationRules" expanded="True">
+                <Node name="FluentValidation" expanded="True" />
+              </Node>
             </Node>
-            <Node name="Console" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-            <Node name="Core" expanded="True">
-              <Node name="DataAccess" expanded="True">
+            <Node name="DataAccess" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True">
                 <Node name="EntityFramework" expanded="True" />
               </Node>
-              <Node name="Utilities" expanded="True">
-                <Node name="Results" expanded="True" />
-              </Node>
+            </Node>
+            <Node name="WebAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Console PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
